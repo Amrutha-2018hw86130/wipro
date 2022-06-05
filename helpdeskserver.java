@@ -1,1 +1,1 @@
-Welcome to Helpdesk server - feature 1
+Welcome to helpdesk server -Feature 1 $ Feature 2
